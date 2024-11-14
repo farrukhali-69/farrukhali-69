@@ -2,8 +2,8 @@
 - 👀 I’m interested in learing everything
 - 🌱 I’m currently speedrunning different coding languages
 - 💞️ I’m looking to collaborate on advance projects
-- 📫 You can reach me by Farrukhaliok@gmail.com
-- 😄 Pronouns: he
+- 📫 You can reach me by gmail
+- 😄 Pronouns: he/ him
 - ⚡ Fun fact: I completed python in 2 weeks with school
 
 <!---
